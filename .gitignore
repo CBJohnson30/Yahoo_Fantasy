@@ -174,4 +174,4 @@ cython_debug/
 .pypirc
 
 # creds
-.oauth2.json
+*.oauth2.json
